@@ -1,0 +1,5 @@
+- 👋 Hello, I’m @Anagha-Arun.
+- 👀 My interests include Machine Learning and Artificial Intelligence-based projects, robotics, web-development, coding in python, C++ and javascript, among others.
+- 🌱 I’m currently learning Electonics and Communication Engineering (ECE) at the National Institute of Technology, Rourkela.
+- 💞️ I’m looking to collaborate on any project that comes under or is related to any or all of my interests mentioned above. 
+- 📫 How to reach me : https://github.com/Anagha-Arun/ML-AI--based-projects.git
